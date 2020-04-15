@@ -1,0 +1,1 @@
+1. get tickers from the document
