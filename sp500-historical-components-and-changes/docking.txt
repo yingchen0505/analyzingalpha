@@ -1,1 +1,0 @@
-"S&P 500 INDEX –" "press release" site:us.spindices.com filetype:pdf
